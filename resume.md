@@ -2,7 +2,7 @@
 
 ## I am a senior student at U.C Berkeley and majoring Economic and Data Science with minor Journalism.
 
-
+![Image](/pan.jpg)
 
 ## Skills 
 1.Python
