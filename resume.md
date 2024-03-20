@@ -10,24 +10,12 @@ San Francisco, CA | Tel: 415-278-1057 | Email: Panzx0317@outlook.com
 
 ## Education
 
-- **Ph.D. in Innovation and Information Management (Information System)**, The University of Hong Kong Business School, Hong Kong, China, Sep. 2024 - May. 2027
-  - Relevant Courses: Quantitative Macroeconomics: Data Model and Policy, Computational Methods in Economics, Research Seminar.
-
 - **Master of Arts in Quantitative Methods in the Social Sciences (Economics)**, The Columbia University Graduate School of Arts and Sciences, New York, NY, Sep. 2023 - May. 2024
   - Relevant Courses: Theory and Methodology, Data Analysis, Game Theory and Business, The Chinese Economy, Advanced Microeconomics, Research Seminar.
 
 - **Bachelor of Arts in Economic and Data Science (Minor in Journalism)**, The University of California Berkeley, Berkeley, CA, Degree Conferred: Dec. 2022
   - Relevant Courses: Macro and Micro Economics, Statistics, Econometrics, Financial Theory, Financial Behavior, Computer Programming, Machine Learning, Simulation for Enterprise-Scale Systems.
 
-## Skills
-
-1. Python (Proficient)
-2. R (Proficient)
-3. SQL (Advanced)
-4. Java (Advanced)
-5. English (Fluent)
-6. Mandarin (Native)
-7. Cantonese (Native)
 
 ## Dissertation
 
@@ -58,3 +46,13 @@ San Francisco, CA | Tel: 415-278-1057 | Email: Panzx0317@outlook.com
 | Shine Capital Partnership | Macro Strategy Researcher<ul><li>Designed and implemented an efficient data processing algorithm for time series data, supporting modeling for analysis.</li><li>Developed a Macro Factor Timing Strategy algorithm, significantly improving stock signal capture and portfolio performance.</li></ul> |
 | LvIUp Venture Capital | Macro Strategy Researcher<ul><li>Represented two of the LvlUp
 
+## Skills
+
+Python (Proficient)
+R (Proficient)
+SQL (Advanced)
+Java (Advanced)
+Stata(Advanced)
+English (Fluent)
+Mandarin (Native)
+Cantonese (Native)
