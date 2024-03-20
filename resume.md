@@ -1,9 +1,5 @@
 # Zixuan Pan
 
-![Image](/pan.jpg)
-
-# Zixuan Pan
-
 San Francisco, CA/New York/ Hong Kong | Email: Panzx0317@outlook.com
 
 ## Education
