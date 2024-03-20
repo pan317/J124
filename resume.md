@@ -1,7 +1,5 @@
 # Zixuan Pan
 
-## I initiated my academic journey at the University of California, Berkeley, where I earned a Bachelor of Arts in Economics and Data Science, alongside a minor in Journalism. This foundational education not only sharpened my analytical abilities but also kindled my interest in the interplay between data, economics, and communication. Advancing my specialization, I pursued a Master of Arts in Quantitative Methods in the Social Sciences with an emphasis on Economics at The Columbia University Graduate School of Arts and Sciences. Transitioning into the professional sphere, I garnered diverse experiences across sectors like venture capital, technology, and financial services.
-
 ![Image](/pan.jpg)
 
 # Zixuan Pan
@@ -31,6 +29,9 @@ Berkeley, CA, Degree Conferred: Dec. 2022
 - Zixuan Pan. "What is the impact of local government debt management strategies on the housing financialization in Guangzhou metropolitan areas." (Master Thesis Working Paper).
 - Zixuan Pan. "Deciphering the Impact of the Real Estate Market on China’s Government Finances" (Working Paper).
 
+
+
+## Research Experience
 ### The Columbia University, Institute for Social and Economic Research and Policy
 **Research Assistant**  
 Mar 2024 - Present, New York, NY  
@@ -85,3 +86,8 @@ Stata(Advanced)
 English (Fluent)
 Mandarin (Native)
 Cantonese (Native)
+
+
+## Self Introduction
+I initiated my academic journey at the University of California, Berkeley, where I earned a Bachelor of Arts in Economics and Data Science, alongside a minor in Journalism. This foundational education not only sharpened my analytical abilities but also kindled my interest in the interplay between data, economics, and communication. Advancing my specialization, I pursued a Master of Arts in Quantitative Methods in the Social Sciences with an emphasis on Economics at The Columbia University Graduate School of Arts and Sciences. Transitioning into the professional sphere, I garnered diverse experiences across sectors like venture capital, technology, and financial services.
+
