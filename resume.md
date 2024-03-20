@@ -30,7 +30,7 @@ San Francisco, CA | Tel: 415-278-1057 | Email: Panzx0317@outlook.com
 
 ## Research Experience
 
-### Columbia University, Institute for Social and Economic Research and Policy
+### Columbia University, Institute for Social and Economic Research and Policy ###
 **Research Assistant**
 Mar 2024 - Present, New York, NY  
 Supervisor: Prof. Ester R. Fuchs & Prof. Michael Nutter  
@@ -38,7 +38,7 @@ Supervisor: Prof. Ester R. Fuchs & Prof. Michael Nutter
 - Involved in the adaptation of Plan of Analysis coding to enhance data insights for policy development, directly impacting urban planning strategies.  
 - Executed sophisticated data interpretation techniques, translating complex datasets into actionable policy recommendations, driving data-informed decisions in public policy and community.
 
-### Columbia University Graduate School of Arts and Sciences (GSAS) 
+### Columbia University Graduate School of Arts and Sciences (GSAS) ###
 **Data Researcher**
 Sep 2023 - Dec 2023, New York, NY  
 Supervisor: Prof. Charlie Riemann  
@@ -46,7 +46,7 @@ Supervisor: Prof. Charlie Riemann
 - Utilized CFPB's credit card data to streamline consumer product comparisons.  
 - Spearheaded digital tool development, disrupting traditional incentives and enhancing market options. Built and optimized a PCA model, evaluating its impact on data integration.
 
-### UC Berkeley Graduate School of Journalism 
+### UC Berkeley Graduate School of Journalism ###
 **Policy Researcher**
 Aug 2022 - Dec 2022, Berkeley, CA  
 Supervisor: Prof. David Thigpen  
@@ -54,7 +54,7 @@ Supervisor: Prof. David Thigpen
 - Worked within a cross-functional team to deliver in-depth research results, combining diverse expertise to uncover nuanced understandings of economic phenomena.  
 - Independently conducted an investigative report on the impact of monetary policy on daily life, revealing the direct correlation between central bank actions and personal financial health, highlighting the real-world implications of fiscal decisions.
 
-### UC Berkeley Graduate School of Journalism
+### UC Berkeley Graduate School of Journalism ###
 **Policy Researcher**
 Jun 2022 - Aug 2022, Berkeley, CA  
 Supervisor: Prof. Dana Amihere  
