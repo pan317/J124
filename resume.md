@@ -4,10 +4,13 @@
 
 ![Image](/pan.jpg)
 
-## Skills
-1. Python
-2. R
-3. Chinese,Cantonese
+## Education
+
+- **Master of Arts in Quantitative Methods in the Social Sciences (Economics)**, The Columbia University Graduate School of Arts and Sciences, New York, NY, Sep. 2023 - May. 2024
+  - Relevant Courses: Theory and Methodology, Data Analysis, Game Theory and Business, The Chinese Economy, Advanced Microeconomics, Research Seminar.
+
+- **Bachelor of Arts in Economic and Data Science (Minor in Journalism)**, The University of California Berkeley, Berkeley, CA, Degree Conferred: Dec. 2022
+  - Relevant Courses: Macro and Micro Economics, Statistics, Econometrics, Financial Theory, Financial Behavior, Computer Programming, Machine Learning, Simulation for Enterprise-Scale Systems.
 
 | Employer | Job Description |
 |  :----  | :----  |
@@ -16,4 +19,10 @@
 | China International Capital Corporation  |PTA Intern, IBD <ul><li>Participated in the preliminary research of the company’s medical device and online car-hailing industry, and analyzed the development prospects and obstacles of the industries from a multi-dimensional perspective;</li><li>Combined with industry trends to provide data analysis support, and analyze industrial financing and regulatory from a macro aspect;</li><li>Used valuation models, such as DCF, to analyze unicorn enterprises in industries and predict their operating conditions.</li></ul> |
 | PricewaterhouseCoopers Business Consulting Co., Ltd.  |Assistant Analyst <ul><li>Assisted supervisor in client information collection, analysis and visual reports, and provided preliminary suggestions on client innovation operations management system, marketing media and core market layout;</li><li>Assisted supervisor in preparing internal and external strategic reports for clients and optimization suggestions; </li></ul> |
 | Cricket Co., LLC  |Sales Assistant <ul><li>Analyzed, reviewed and enhanced complex sales data to track key business metrics such as unit cost, revenue per order, etc;</li><li>Extracted and manipulated complex data sets (with up to 2 million transactions) and provided data that influenced business decisions.</li></ul>|
+
+
+## Skills
+1. Python
+2. R
+3. Chinese,Cantonese
 
