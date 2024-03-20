@@ -28,14 +28,38 @@ San Francisco, CA | Tel: 415-278-1057 | Email: Panzx0317@outlook.com
 
 ## Research Experience
 
-- **Research Assistant**, Columbia University Institute for Social and Economic Research and Policy, New York, NY, Mar 2024 - Present
-  - Developed and optimized R or Python code for data cleaning and analysis, improving survey data accuracy and analysis efficiency for urban resilience research.
+### Columbia University, Institute for Social and Economic Research and Policy, New York, NY
+**Research Assistant**  
+Mar 2024 - Present  
+Supervisor: Prof. Ester R. Fuchs & Prof. Michael Nutter  
+- Developed and optimized R or Python code for data cleaning and analysis, significantly improving survey data accuracy and analysis efficiency for urban resilience research in Community Speak.  
+- Involved in the adaptation of Plan of Analysis coding to enhance data insights for policy development, directly impacting urban planning strategies.  
+- Executed sophisticated data interpretation techniques, translating complex datasets into actionable policy recommendations, driving data-informed decisions in public policy and community.
 
-- **Data Researcher**, Columbia University Graduate School of Arts and Sciences (GSAS), New York, NY, Sep 2023 - Dec 2023
-  - Participated in research under the U.S. Consumer Financial Protection Bureau to boost credit card market competition, streamlined consumer product comparisons.
+### Columbia University Graduate School of Arts and Sciences (GSAS), New York, NY
+**Data Researcher**  
+Sep 2023 - Dec 2023 | 4 months  
+Supervisor: Prof. Charlie Riemann  
+- Participated in research under the U.S. Consumer Financial Protection Bureau (CFPB) to boost credit card market competition.  
+- Utilized CFPB's credit card data to streamline consumer product comparisons.  
+- Spearheaded digital tool development, disrupting traditional incentives and enhancing market options. Built and optimized a PCA model, evaluating its impact on data integration.
 
-- **Policy Researcher**, UC Berkeley Graduate School of Journalism, Berkeley, CA, Aug 2022 - Dec 2022 & Jun 2022 - Aug 2022
-  - Applied statistical analysis methods to scrutinize economic data, enhancing insights into economic trends and outcomes.
+### UC Berkeley Graduate School of Journalism, Berkeley, CA
+**Policy Researcher**  
+Aug 2022 - Dec 2022 | 5 months  
+Supervisor: Prof. David Thigpen  
+- Applied statistical analysis methods to scrutinize economic data, enhancing insights into economic trends and outcomes.  
+- Worked within a cross-functional team to deliver in-depth research results, combining diverse expertise to uncover nuanced understandings of economic phenomena.  
+- Independently conducted an investigative report on the impact of monetary policy on daily life, revealing the direct correlation between central bank actions and personal financial health, highlighting the real-world implications of fiscal decisions.
+
+### UC Berkeley Graduate School of Journalism, Berkeley, CA
+**Policy Researcher**  
+Jun 2022 - Aug 2022 | 3 months  
+Supervisor: Prof. Dana Amihere  
+- Performed in-depth data analysis to uncover the impact of monetary policy changes on individual economic conditions, focusing on consumer index variations and income growth trends.  
+- Investigated the alteration in lifestyle patterns due to the Covid-19 pandemic by evaluating diverse datasets, demonstrating expertise in statistical analysis and report generation on findings.  
+- Mastered the analysis and interpretation of complex data sets to provide insightful reports on economic and societal trends.
+
 
 ## Professional Experience
 
