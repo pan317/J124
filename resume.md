@@ -1,22 +1,25 @@
 # Zixuan Pan
 
-## I am a senior student at U.C Berkeley and majoring Economic and Data Science with minor Journalism.
+## I initiated my academic journey at the University of California, Berkeley, where I earned a Bachelor of Arts in Economics and Data Science, alongside a minor in Journalism. This foundational education not only sharpened my analytical abilities but also kindled my interest in the interplay between data, economics, and communication. Advancing my specialization, I pursued a Master of Arts in Quantitative Methods in the Social Sciences with an emphasis on Economics at The Columbia University Graduate School of Arts and Sciences. Transitioning into the professional sphere, I garnered diverse experiences across sectors like venture capital, technology, and financial services.
 
 ![Image](/pan.jpg)
 
 # Zixuan Pan
 
-San Francisco, CA | Tel: 415-278-1057 | Email: Panzx0317@outlook.com
+San Francisco, CA/New York/ Hong Kong | Email: Panzx0317@outlook.com
 
 ## Education
 
-### The Columbia University Graduate School of Arts and Sciences ###
-- **Master of Arts in Quantitative Methods in the Social Sciences (Economics)**,  New York, NY, Sep. 2023 - May. 2024
-  - Relevant Courses: Theory and Methodology, Data Analysis, Game Theory and Business, The Chinese Economy, Advanced Microeconomics, Research Seminar.
+### The Columbia University Graduate School of Arts and Sciences
+**Master of Arts in Quantitative Methods in the Social Sciences (Economics)**  
+New York, NY, Sep. 2023 - May. 2024  
+- Relevant Courses: Theory and Methodology, Data Analysis, Game Theory and Business, The Chinese Economy, Advanced Microeconomics, Research Seminar.
 
-### The University of California Berkeley ###
-- **Bachelor of Arts in Economic and Data Science (Minor in Journalism)**, Berkeley, CA, Degree Conferred: Dec. 2022
-  - Relevant Courses: Macro and Micro Economics, Statistics, Econometrics, Financial Theory, Financial Behavior, Computer Programming, Machine Learning, Simulation for Enterprise-Scale Systems.
+### The University of California Berkeley
+**Bachelor of Arts in Economic and Data Science (Minor in Journalism)**  
+Berkeley, CA, Degree Conferred: Dec. 2022  
+- Relevant Courses: Macro and Micro Economics, Statistics, Econometrics, Financial Theory, Financial Behavior, Computer Programming, Machine Learning, Simulation for Enterprise-Scale Systems.
+
 
 
 ## Dissertation
@@ -28,7 +31,7 @@ San Francisco, CA | Tel: 415-278-1057 | Email: Panzx0317@outlook.com
 - Zixuan Pan. "What is the impact of local government debt management strategies on the housing financialization in Guangzhou metropolitan areas." (Master Thesis Working Paper).
 - Zixuan Pan. "Deciphering the Impact of the Real Estate Market on China’s Government Finances" (Working Paper).
 
-### Columbia University, Institute for Social and Economic Research and Policy
+### The Columbia University, Institute for Social and Economic Research and Policy
 **Research Assistant**  
 Mar 2024 - Present, New York, NY  
 Supervisor: Prof. Ester R. Fuchs & Prof. Michael Nutter  
@@ -36,7 +39,7 @@ Supervisor: Prof. Ester R. Fuchs & Prof. Michael Nutter
 - Involved in the adaptation of Plan of Analysis coding to enhance data insights for policy development, directly impacting urban planning strategies.  
 - Executed sophisticated data interpretation techniques, translating complex datasets into actionable policy recommendations, driving data-informed decisions in public policy and community.
 
-### Columbia University Graduate School of Arts and Sciences (GSAS)
+### The Columbia University, Graduate School of Arts and Sciences (GSAS)
 **Data Researcher**  
 Sep 2023 - Dec 2023, New York, NY  
 Supervisor: Prof. Charlie Riemann  
@@ -44,7 +47,7 @@ Supervisor: Prof. Charlie Riemann
 - Utilized CFPB's credit card data to streamline consumer product comparisons.  
 - Spearheaded digital tool development, disrupting traditional incentives and enhancing market options. Built and optimized a PCA model, evaluating its impact on data integration.
 
-### UC Berkeley Graduate School of Journalism
+### The University of California Berkeley, Graduate School of Journalism
 **Policy Researcher**  
 Aug 2022 - Dec 2022, Berkeley, CA  
 Supervisor: Prof. David Thigpen  
@@ -52,7 +55,7 @@ Supervisor: Prof. David Thigpen
 - Worked within a cross-functional team to deliver in-depth research results, combining diverse expertise to uncover nuanced understandings of economic phenomena.  
 - Independently conducted an investigative report on the impact of monetary policy on daily life, revealing the direct correlation between central bank actions and personal financial health, highlighting the real-world implications of fiscal decisions.
 
-### UC Berkeley Graduate School of Journalism
+### The University of California Berkeley, Graduate School of Journalism
 **Policy Researcher**  
 Jun 2022 - Aug 2022, Berkeley, CA  
 Supervisor: Prof. Dana Amihere  
