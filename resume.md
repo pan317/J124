@@ -10,10 +10,12 @@ San Francisco, CA | Tel: 415-278-1057 | Email: Panzx0317@outlook.com
 
 ## Education
 
-- **Master of Arts in Quantitative Methods in the Social Sciences (Economics)**, The Columbia University Graduate School of Arts and Sciences, New York, NY, Sep. 2023 - May. 2024
+### The Columbia University Graduate School of Arts and Sciences ###
+- **Master of Arts in Quantitative Methods in the Social Sciences (Economics)**,  New York, NY, Sep. 2023 - May. 2024
   - Relevant Courses: Theory and Methodology, Data Analysis, Game Theory and Business, The Chinese Economy, Advanced Microeconomics, Research Seminar.
 
-- **Bachelor of Arts in Economic and Data Science (Minor in Journalism)**, The University of California Berkeley, Berkeley, CA, Degree Conferred: Dec. 2022
+### The University of California Berkeley ###
+- **Bachelor of Arts in Economic and Data Science (Minor in Journalism)**, Berkeley, CA, Degree Conferred: Dec. 2022
   - Relevant Courses: Macro and Micro Economics, Statistics, Econometrics, Financial Theory, Financial Behavior, Computer Programming, Machine Learning, Simulation for Enterprise-Scale Systems.
 
 
